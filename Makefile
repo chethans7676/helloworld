@@ -1,2 +1,2 @@
 Target1: fact.c
-gcc -o Target1 fact.c -I.
+  gcc -o Target1 fact.c -I.
